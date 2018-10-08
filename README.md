@@ -1,0 +1,2 @@
+# Mymic
+Mic array project
